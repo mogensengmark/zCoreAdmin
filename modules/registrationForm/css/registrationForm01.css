@@ -1,0 +1,40 @@
+/**
+ * registrationForm 01 stylesheet
+ **/
+
+#zCoreRegistrationForm input
+{
+	width: 200px;
+}
+
+.registrationFormSelect
+{
+	padding: 3px;
+	color: #666;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	width: 208px;
+}
+
+.registrationFormSelect option {
+	color: #000;
+	
+}
+
+.formRow,
+.formFloatLeft {
+	/*float: left;*/
+	/*padding: 10px;*/
+}
+
+.fieldSection {
+	padding: 10px;
+}
+
+.fieldSectionMiddle {
+	padding: 10px 10px 10px 0px;
+}
+
+.fieldSectionLeft {
+	float: left;
+}
